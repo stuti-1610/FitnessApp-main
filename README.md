@@ -1,7 +1,6 @@
-# fitnessapp
+# Diet and Workout Assistant App
  
-Fitness workout app is a professional app template that provides pre-set workout plans for
-bodybuilding, Weight Gain, Weight loss & other Fitness Workout as your bodybuilding and Workout trainer.
+This project is a comprehensive fitness application featuring a modern Material Design UI/UX. Users can track their workouts and schedules with intuitive charts, including pie, line, and progress charts, to visualize their performance over time. The app provides detailed exercise steps and includes a photo gallery to monitor physical progress. A dedicated profile screen allows for easy access to user information, while the notification screen keeps users informed. Custom widgets and clean code ensure a smooth and enjoyable experience for users.
 
 **Features**:
 
@@ -13,5 +12,3 @@ bodybuilding, Weight Gain, Weight loss & other Fitness Workout as your bodybuild
 - Profile screen UI.
 - Notification screen UI.
 - Custom widgets, clean code.
-
-![Preview](fitness_app.png)
